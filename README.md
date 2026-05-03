@@ -1,6 +1,6 @@
 # Clarence Stephen
 
-**Founder @ [Readify](https://www.ireadifybooks.com)** | Data Scientist | AI Engineer
+**Founder @ [Readify](https://www.ireadifybooks.com)** | **Co-founder & CEO @ [AcceLLM](https://accellm.ai)** | AI Engineer
 
 ---
 
@@ -49,9 +49,9 @@ These repositories are **source-available** for reference purposes. They are not
 
 ## Background
 
-Data scientist with 10+ years of experience across finance, mobile e-commerce, and consumer retail. Former client analytics lead at Morgan Stanley. Previously at Mars and Button.
+AI engineer with 20+ years across finance, e-commerce, retail, and education. Founder of [Readify](https://www.ireadifybooks.com) and co-founder & CEO of [AcceLLM](https://accellm.ai), where I lead a team of 15 AI/ML software engineers. Earlier: client analytics lead at Morgan Stanley, with prior stops at Mars and Button.
 
-Non-traditional background: Haitian-American, multilingual (5+ languages), lived in Japan, traveled to 40+ countries. Career started in equity derivatives trading before transitioning to data science and AI.
+Non-traditional background: Haitian-American, multilingual (5+ languages), lived in Japan, traveled to 40+ countries. Career started in equity derivatives trading before moving into data science and AI.
 
 ---
 
