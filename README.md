@@ -42,7 +42,7 @@ Public-facing artifacts from systems I've built. The methodology and writing are
 | [**Predicting-Recessions**](https://github.com/clarencestephen/Predicting-Recessions) | ML classification for recession forecasting across 17 economies (1870–2016). 75% accuracy with recall-optimized logistic regression. |
 | [**GME-vs-EA**](https://github.com/clarencestephen/GME-vs-EA) | Web scraping pipeline (8,255 game reviews) and regression analysis testing review scores as stock return predictors. |
 | [**googlemaps-triangulate**](https://github.com/clarencestephen/googlemaps-triangulate) | Constraint-based restaurant discovery using Google Maps Platform — geospatial filtering with travel-time and quality thresholds. |
-| [**semantic_research_engine**](https://github.com/clarencestephen/semantic_research_engine) | RAG pipeline over arXiv papers with Chainlit copilot, LangChain orchestration, and Literal AI observability. |
+| [**semantic_research_engine**](https://github.com/clarencestephen/semantic_research_engine) | Fork of [tahreemrasul/semantic_research_engine](https://github.com/tahreemrasul/semantic_research_engine). RAG pipeline over arXiv papers with Chainlit copilot, LangChain orchestration, and Literal AI observability — original work by Tahreem Rasul; my fork extends it as a deployment reference. |
 
 These repositories are **source-available** for reference purposes. They are not open source. See each repo's LICENSE for terms.
 
