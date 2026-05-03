@@ -23,12 +23,13 @@ Readify transforms any EPUB into an immersive reading experience with real-time 
 
 ## Recent work
 
-Two recent public repositories around the Readify multi-agent RAG knowledge base — one for the methodology, one for the writing it supports.
+Public-facing artifacts from systems I've built. The methodology and writing are public; the implementations stay private.
 
 | Repository | Description |
 |---|---|
 | [**Readify-Public**](https://github.com/clarencestephen/Readify-Public) | Reproducibility tooling for the Readify KB methodology — four analysis scripts (loader, TF-IDF cosine duplicate sweep, chart generation) packaged with a small synthetic KB that runs the full pipeline in under a minute on a laptop. CC BY-NC 4.0. |
 | [**Readify-Documentation-Samples**](https://github.com/clarencestephen/Readify-Documentation-Samples) | Three documentation artifacts authored for the same system: an EDA on the 42k-question knowledge base, an A/B readout for retuning the FAQ similarity threshold, and a model card following the Mitchell et al. (2019) template. CC BY-NC 4.0. |
+| [**MM-Documentation-Samples**](https://github.com/clarencestephen/MM-Documentation-Samples) | Architecture & design overview of MM (Music Maker), a local-first AI-native Hip-Hop production platform I'm building with a co-founder. Three pipelines (Create, Transform, Identity), GPU strategy, and the wedge. CC BY-NC 4.0. |
 
 ---
 
