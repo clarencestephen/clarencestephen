@@ -30,6 +30,7 @@ Public-facing artifacts from systems I've built. The methodology and writing are
 | [**Readify-Public**](https://github.com/clarencestephen/Readify-Public) | Reproducibility tooling for the Readify KB methodology — four analysis scripts (loader, TF-IDF cosine duplicate sweep, chart generation) packaged with a small synthetic KB that runs the full pipeline in under a minute on a laptop. CC BY-NC 4.0. |
 | [**Readify-Documentation-Samples**](https://github.com/clarencestephen/Readify-Documentation-Samples) | Three documentation artifacts authored for the same system: an EDA on the 42k-question knowledge base, an A/B readout for retuning the FAQ similarity threshold, and a model card following the Mitchell et al. (2019) template. CC BY-NC 4.0. |
 | [**MM-Documentation-Samples**](https://github.com/clarencestephen/MM-Documentation-Samples) | Architecture & design overview of MM (Music Maker), a local-first AI-native Hip-Hop production platform I'm building with a co-founder. Three pipelines (Create, Transform, Identity), GPU strategy, and the wedge. CC BY-NC 4.0. |
+| [**Destiny-Voyager-Documentation-Samples**](https://github.com/clarencestephen/Destiny-Voyager-Documentation-Samples) | Architecture overview of Destiny Voyager, a personal Destiny 2 optimizer and clan Discord assistant: an install-wizard loadout workbook, Bungie and DIM ingestion, and a retrieval-grounded Discord bot running a local model — with inventory grounding and a weekly state record that keeps it honest against a game that shifts every Tuesday. CC BY-NC 4.0. |
 
 ---
 
